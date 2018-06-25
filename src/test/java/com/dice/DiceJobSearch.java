@@ -55,7 +55,7 @@ public class DiceJobSearch {
 			System.out.println("Step FAIL: Keyword: " + keyword + " search returned " + countResult + " result in " + location);
 		}
 		//driver.close();
-		System.out.println("Test Completed -" + LocalDateTime.now());
+		System.out.println("Test Completed - " + LocalDateTime.now());
 	}
 
 }
